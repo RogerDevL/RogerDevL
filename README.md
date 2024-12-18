@@ -1,5 +1,5 @@
 ### Olá meu nome é Roger Lemos
-- 💻 Hoje me aprensento como Aprendiz Técnico
+- 💻 Hoje me apresento como Aprendiz Técnico
 <div>
 <a href="https://github.com/RogerDevL"></a>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RogerDevL&show_icons=true&theme=holi&include_all_commits=true&count_private=true">
