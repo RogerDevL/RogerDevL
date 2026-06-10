@@ -1,5 +1,14 @@
-### Olá meu nome é Roger Lemos
-- 💻 Hoje me apresento como Aprendiz Técnico
+# Olá, eu sou Roger Lemos 👋
+
+💻 Desenvolvedor Java em formação
+
+🎓 Técnico em Desenvolvimento de Sistemas pelo SENAI
+
+📚 Cursando Análise e Desenvolvimento de Sistemas na FMU
+
+🚀 Experiência com Java, Spring Boot, SQL Server, Microsoft Azure, Node.js, React e Next.js
+
+🔍 Buscando oportunidades como Desenvolvedor Java Júnior, Back-End ou Full Stack
 <div>
 <a href="https://github.com/RogerDevL"></a>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RogerDevL&show_icons=true&theme=holi&include_all_commits=true&count_private=true">
